@@ -1,4 +1,4 @@
-# equations
+# Templates para equações
 
 Este repositório contém diversas equações escritas em latex para `.ipynb` e `.md`. 
 
