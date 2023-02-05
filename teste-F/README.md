@@ -9,6 +9,7 @@ onde:
 Hipóteses:
 
 $$H_{0}: \sigma_{max}^{2} = \sigma_{min}^{2}$$
+
 $$H_{1}: \sigma_{max}^{2} > \sigma_{min}^{2}$$
 
 
@@ -26,6 +27,7 @@ onde:
 Hipóteses:
 
 $$H_{0}: \sigma_{max}^{2} = \sigma_{min}^{2}$$
+
 $$H_{1}: \sigma_{max}^{2} > \sigma_{min}^{2}$$
 ```
 
@@ -41,6 +43,7 @@ onde:
 Hipóteses:
 
 $$H_{0}: \sigma_{1}^{2} = \sigma_{2}^{2}$$
+
 $$H_{1}: \sigma_{1}^{2} > \sigma_{2}^{2}$$
 
 ## Código
@@ -57,5 +60,6 @@ onde:
 Hipóteses:
 
 $$H_{0}: \sigma_{1}^{2} = \sigma_{2}^{2}$$
+
 $$H_{1}: \sigma_{1}^{2} > \sigma_{2}^{2}$$
 ```
