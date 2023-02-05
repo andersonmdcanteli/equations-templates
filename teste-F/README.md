@@ -11,6 +11,7 @@ Hipóteses:
 $$H_{0}: \sigma_{max}^{2} = \sigma_{min}^{2}$$
 $$H_{1}: \sigma_{max}^{2} > \sigma_{min}^{2}$$
 
+
 ## Código
 
 ```
@@ -35,6 +36,7 @@ $$ F_{calc} = \frac{s_{1}^{2}}{s_{2}^{2}} $$
 onde:
 - $s_{1}^{2}$ é a variância da amostra com maior variância;
 - $s_{2}^{2}$ é a variância da amostra com menor variância;
+
 
 Hipóteses:
 
