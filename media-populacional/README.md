@@ -1,6 +1,6 @@
 # Média populacional
 
-$$\overline{\mu} = \frac{1}{N} \sum_{i=1}^{N} X_{i} $$
+$$\mu = \frac{1}{N} \sum_{i=1}^{N} X_{i} $$
 
 onde:
 - $N$ é o tamanho da população;
@@ -11,7 +11,7 @@ onde:
 ```
 # Média populacional
 
-$$\overline{\mu} = \frac{1}{N} \sum_{i=1}^{N} X_{i} $$
+$$\mu = \frac{1}{N} \sum_{i=1}^{N} X_{i} $$
 
 onde:
 - $N$ é o tamanho da população;
