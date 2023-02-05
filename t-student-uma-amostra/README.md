@@ -1,4 +1,4 @@
-# t de Student para uma amostra ( $t_{calc} $ )
+# t de Student para uma amostra ( $t_{calc}$ )
 
 $$t_{calc} = \frac{|\overline{x} - \mu_{0}|}{\frac{s_{x}}{\sqrt{n}}}$$
 
@@ -11,7 +11,7 @@ onde:
 ## Código
 
 ```
-# t de Student para uma amostra ( $t_{calc} $ )
+# t de Student para uma amostra ( $t_{calc}$ )
 
 $$t_{calc} = \frac{|\overline{x} - \mu_{0}|}{\frac{s_{x}}{\sqrt{n}}}$$
 
@@ -22,7 +22,7 @@ onde:
 - $s_{x}$ é o desvio padrão amostral;
 ```
 
-# t de Student para uma amostra ( $t_{calc} $ )
+# t de Student para uma amostra ( $t_{calc}$ )
 
 $$t_{calc} = \frac{\overline{x} - \mu_{0}}{\frac{s_{x}}{\sqrt{n}}}$$
 
@@ -35,7 +35,7 @@ onde:
 ## Código
 
 ```
-# t de Student para uma amostra ( $t_{calc} $ )
+# t de Student para uma amostra ( $t_{calc}$ )
 
 $$t_{calc} = \frac{\overline{x} - \mu_{0}}{\frac{s_{x}}{\sqrt{n}}}$$
 
@@ -46,7 +46,7 @@ onde:
 - $s_{x}$ é o desvio padrão amostral;
 ```
 
-# t de Student para uma amostra ( $t_{calc} $ )
+# t de Student para uma amostra ( $t_{calc}$ )
 
 $$t_{calc} = \frac{(\overline{x} - \mu_{0})\sqrt{n}}{s_{x}}$$
 
@@ -59,7 +59,7 @@ onde:
 ## Código
 
 ```
-# t de Student para uma amostra ( $t_{calc} $ )
+# t de Student para uma amostra ( $t_{calc}$ )
 
 $$t_{calc} = \frac{(\overline{x} - \mu_{0})\sqrt{n}}{s_{x}}$$
 
@@ -70,7 +70,7 @@ onde:
 - $s_{x}$ é o desvio padrão amostral;
 ```
 
-# t de Student para uma amostra ( $t_{calc} $ )
+# t de Student para uma amostra ( $t_{calc}$ )
 
 $$t_{calc} = \frac{|\overline{x} - \mu_{0}|\sqrt{n}}{s_{x}}$$
 
@@ -83,7 +83,7 @@ onde:
 ## Código
 
 ```
-# t de Student para uma amostra ( $t_{calc} $ )
+# t de Student para uma amostra ( $t_{calc}$ )
 
 $$t_{calc} = \frac{|\overline{x} - \mu_{0}|\sqrt{n}}{s_{x}}$$
 
