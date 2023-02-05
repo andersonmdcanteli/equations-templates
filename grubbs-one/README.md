@@ -1,6 +1,6 @@
 # Grubbs One ( $G^{'}$ ) 
 
-$$ G_{calc} = \frac{\overline{x} - x_{1}}{s} $$
+$$ G_{'} = \frac{\overline{x} - x_{1}}{s} $$
 
 onde:
 - $\overline{x}$ é a média amostral;
@@ -8,7 +8,7 @@ onde:
 - $s$ é o desvio padrão amostral;
 
 
-$$ G_{calc} = \frac{x_{n} - \overline{x} }{s} $$
+$$ G_{'} = \frac{x_{n} - \overline{x} }{s} $$
 
 onde:
 - $\overline{x}$ é a média amostral;
@@ -20,7 +20,7 @@ onde:
 ```
 # Grubbs One ( $G^{'}$ ) 
 
-$$ G_{calc} = \frac{\overline{x} - x_{1}}{s} $$
+$$ G_{'} = \frac{\overline{x} - x_{1}}{s} $$
 
 onde:
 - $\overline{x}$ é a média amostral;
@@ -28,7 +28,7 @@ onde:
 - $s$ é o desvio padrão amostral;
 
 
-$$ G_{calc} = \frac{x_{n} - \overline{x} }{s} $$
+$$ G_{'} = \frac{x_{n} - \overline{x} }{s} $$
 
 onde:
 - $\overline{x}$ é a média amostral;
