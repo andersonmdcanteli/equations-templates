@@ -6,7 +6,7 @@ onde:
 - $n$ é o número total de observações da amostra;
 - $x_{i}$ é o valor da i-ésima observação da amostra;
 
-
+## Código
 
 ```
 # Média amostral
