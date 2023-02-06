@@ -19,6 +19,7 @@ onde:
 - $x_{i}$ é a i-ésima observação da amostra;
 ```
 
+
 # Desvio padrão amostral ( $s$ )
 
 $$s = \sqrt{s^{2}} $$
