@@ -1,6 +1,6 @@
 # Desvio padrão populacional ( $\sigma$ )
 
-$$\sigma = \sqrt{\frac{1}{N} \sum_{i=1}^{N} (X_{i} - \mu)^{2}} $$
+$$\sigma = \sqrt{\frac{1}{N} \sum_{i=1}^{N} \left(X_{i} - \mu\right)^{2}}$$
 
 onde:
 - $N$ é o tamanho da população;
@@ -10,9 +10,9 @@ onde:
 ## Código
 
 ```
-# Variância populacional ( $\sigma^{2}$ )
+# Desvio padrão populacional ( $\sigma$ )
 
-$$\sigma^{2} = \frac{1}{N} \sum_{i=1}^{N} (X_{i} - \mu)^{2} $$
+$$\sigma = \sqrt{\frac{1}{N} \sum_{i=1}^{N} \left(X_{i} - \mu\right)^{2}}$$
 
 onde:
 - $N$ é o tamanho da população;
