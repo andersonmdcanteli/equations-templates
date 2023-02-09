@@ -1,6 +1,6 @@
 # Variância populacional ( $\sigma^{2}$ )
 
-$$\sigma^{2} = \frac{1}{N} \sum_{i=1}^{N} (X_{i} - \mu)^{2} $$
+$$\sigma^{2} = \frac{1}{N} \sum_{i=1}^{N} \left( X_{i} - \mu\right)^{2} $$
 
 onde:
 - $N$ é o tamanho da população;
@@ -12,7 +12,7 @@ onde:
 ```
 # Variância populacional ( $\sigma^{2}$ )
 
-$$\sigma^{2} = \frac{1}{N} \sum_{i=1}^{N} (X_{i} - \mu)^{2} $$
+$$\sigma^{2} = \frac{1}{N} \sum_{i=1}^{N} \left( X_{i} - \mu\right)^{2} $$
 
 onde:
 - $N$ é o tamanho da população;
