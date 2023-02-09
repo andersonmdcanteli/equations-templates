@@ -1,6 +1,6 @@
 # r de Pearson ( $r_{pearson}$ )
 
-$$r_{pearson} = \frac{\sum_{i=1}^n (x_i - \overline{x}) (y_i - \overline{y})}{\sqrt{\sum_{i=1}^n ((x_i - \overline{x})^2 \sum_{i=1}^n ((y_i - \overline{y})^2}}$$
+$$r_{pearson} = \frac{\sum_{i=1}^n \left(x_i - \overline{x}\right) \left(y_i - \overline{y}\right)}{\sqrt{\sum_{i=1}^n \left( x_i - \overline{x}\right)^2 \sum_{i=1}^n \left( y_i - \overline{y}\right)^2}}$$
 
 onde
 - $x_i$ é a i-ésima observação da variável independente;
@@ -15,7 +15,7 @@ onde
 ```
 # r de Pearson ( $r_{pearson}$ )
 
-$$r_{pearson} = \frac{\sum_{i=1}^n (x_i - \overline{x}) (y_i - \overline{y})}{\sqrt{\sum_{i=1}^n ((x_i - \overline{x})^2 \sum_{i=1}^n ((y_i - \overline{y})^2}}$$
+$$r_{pearson} = \frac{\sum_{i=1}^n \left(x_i - \overline{x}\right) \left(y_i - \overline{y}\right)}{\sqrt{\sum_{i=1}^n \left( x_i - \overline{x}\right)^2 \sum_{i=1}^n \left( y_i - \overline{y}\right)^2}}$$
 
 onde
 - $x_i$ é a i-ésima observação da variável independente;
