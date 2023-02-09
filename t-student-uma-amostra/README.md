@@ -48,7 +48,7 @@ onde:
 
 # t de Student para uma amostra ( $t_{calc}$ )
 
-$$t_{calc} = \frac{(\overline{x} - \mu_{0})\sqrt{n}}{s_{x}}$$
+$$t_{calc} = \frac{\left( \overline{x} - \mu_{0}\right)\sqrt{n}}{s_{x}}$$
 
 onde:
 - $\overline{x}$ é a média amostral;
@@ -61,7 +61,7 @@ onde:
 ```
 # t de Student para uma amostra ( $t_{calc}$ )
 
-$$t_{calc} = \frac{(\overline{x} - \mu_{0})\sqrt{n}}{s_{x}}$$
+$$t_{calc} = \frac{\left( \overline{x} - \mu_{0}\right)\sqrt{n}}{s_{x}}$$
 
 onde:
 - $\overline{x}$ é a média amostral;
