@@ -1,6 +1,6 @@
 # Intervalo de confiança da média amostral ( $I.C.$ )
 
-$$ IC = \frac{t_{(n-1,1-\alpha/2)}s}{\sqrt{n}} $$
+$$ IC = \frac{t_{\left(n-1,1-\alpha/2 \right)}s}{\sqrt{n}} $$
 
 onde:
 - $n$ é o número de observações da amostra;
@@ -13,7 +13,7 @@ onde:
 ```
 # Intervalo de confiança da média amostral ( $I.C.$ )
 
-$$ IC = \frac{t_{(n-1,1-\alpha/2)}s}{\sqrt{n}} $$
+$$ IC = \frac{t_{\left(n-1,1-\alpha/2 \right)}s}{\sqrt{n}} $$
 
 onde:
 - $n$ é o número de observações da amostra;
@@ -24,7 +24,7 @@ onde:
 
 # Intervalo de confiança da média amostral ( $I.C.$ )
 
-$$ IC = \frac{t_{(n-1,1-\alpha/2)}\sqrt{\frac{1}{(n-1)} \sum_{i=1}^{n} (x_{i} - \overline{x})^{2}}}{\sqrt{n}} $$
+$$ IC = \frac{t_{\left(n-1,1-\alpha/2 \right)}\sqrt{\frac{1}{\left(n-1 \right)} \sum_{i=1}^{n} \left(x_{i} - \overline{x} \right)^{2}}}{\sqrt{n}}$$
 
 onde:
 - $n$ é o número de observações da amostra;
@@ -38,7 +38,7 @@ onde:
 ```
 # Intervalo de confiança da média amostral ( $I.C.$ )
 
-$$ IC = \frac{t_{(n-1,1-\alpha/2)}\sqrt{\frac{1}{(n-1)} \sum_{i=1}^{n} (x_{i} - \overline{x})^{2}}}{\sqrt{n}} $$
+$$ IC = \frac{t_{\left(n-1,1-\alpha/2 \right)}\sqrt{\frac{1}{\left(n-1 \right)} \sum_{i=1}^{n} \left(x_{i} - \overline{x} \right)^{2}}}{\sqrt{n}}$$
 
 onde:
 - $n$ é o número de observações da amostra;
