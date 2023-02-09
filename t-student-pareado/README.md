@@ -74,7 +74,7 @@ onde:
 
 # t de Student pareado ( $t_{calc}$ )
 
-$$t_{calc} = \frac{(\overline{x_{1}} - \overline{x_{2}})\sqrt{n}}{s_{d}}$$
+$$t_{calc} = \frac{\left( \overline{x_{1}} - \overline{x_{2}}\right)\sqrt{n}}{s_{d}}$$
 
 onde:
 - $\overline{x_{1}}$ é a média da amostra 1;
@@ -87,7 +87,7 @@ onde:
 ```
 # t de Student pareado ( $t_{calc}$ )
 
-$$t_{calc} = \frac{(\overline{x_{1}} - \overline{x_{2}})\sqrt{n}}{s_{d}}$$
+$$t_{calc} = \frac{\left( \overline{x_{1}} - \overline{x_{2}}\right)\sqrt{n}}{s_{d}}$$
 
 onde:
 - $\overline{x_{1}}$ é a média da amostra 1;
