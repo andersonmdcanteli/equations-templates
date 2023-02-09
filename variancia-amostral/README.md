@@ -1,6 +1,6 @@
 # Variância amostral ( $s^{2}$ )
 
-$$s^{2} = \frac{1}{n-1} \sum_{i=1}^{n} (x_{i} - \overline{x})^{2} $$
+$$s^{2} = \frac{1}{n-1} \sum_{i=1}^{n} \left( x_{i} - \overline{x}\right)^{2} $$
 
 onde:
 - $n$ é o número de observações da amostra;
@@ -12,7 +12,7 @@ onde:
 ```
 # Variância amostral ( $s^{2}$ )
 
-$$s^{2} = \frac{1}{n-1} \sum_{i=1}^{n} (x_{i} - \overline{x})^{2} $$
+$$s^{2} = \frac{1}{n-1} \sum_{i=1}^{n} \left( x_{i} - \overline{x}\right)^{2} $$
 
 onde:
 - $n$ é o número de observações da amostra;
