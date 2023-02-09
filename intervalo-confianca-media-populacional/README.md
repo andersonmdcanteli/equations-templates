@@ -1,6 +1,6 @@
 # Intervalo de confiança da média populacional ( $I.C.$ )
 
-$$ IC = \frac{Z_{1-\alpha/2} \sigma}{\sqrt{N}} $$
+$$ IC = \frac{Z_{\left(1-\alpha/2 \right)} \sigma}{\sqrt{N}} $$
 
 onde:
 - $N$ é o tamanho populacional;
@@ -12,7 +12,7 @@ onde:
 ```
 # Intervalo de confiança da média populacional ( $I.C.$ )
 
-$$ IC = \frac{Z_{1-\alpha/2} \sigma}{\sqrt{N}} $$
+$$ IC = \frac{Z_{\left(1-\alpha/2 \right)} \sigma}{\sqrt{N}} $$
 
 onde:
 - $N$ é o tamanho populacional;
@@ -23,7 +23,7 @@ onde:
 
 # Intervalo de confiança da média populacional ( $I.C.$ )
 
-$$ IC = \frac{Z_{1-\alpha/2} \sqrt{\frac{1}{N} \sum_{i=1}^{N} (X_{i} - \mu)^{2}}}{\sqrt{N}} $$
+$$ IC = \frac{Z_{\left(1-\alpha/2 \right)} \sqrt{\frac{1}{N} \sum_{i=1}^{N} \left(X_{i} - \mu \right)^{2}}}{\sqrt{N}}$$
 
 onde:
 - $N$ é o tamanho populacional;
@@ -37,7 +37,7 @@ onde:
 ```
 # Intervalo de confiança da média populacional ( $I.C.$ )
 
-$$ IC = \frac{Z_{1-\alpha/2} \sqrt{\frac{1}{N} \sum_{i=1}^{N} (X_{i} - \mu)^{2}}}{\sqrt{N}} $$
+$$ IC = \frac{Z_{\left(1-\alpha/2 \right)} \sqrt{\frac{1}{N} \sum_{i=1}^{N} \left(X_{i} - \mu \right)^{2}}}{\sqrt{N}}$$
 
 onde:
 - $N$ é o tamanho populacional;
