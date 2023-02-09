@@ -1,6 +1,6 @@
 # Grubbs Three ( $G^{'''}$ )
 
-$$ G^{'''} = \frac{(n-3) \times s_{upper}^{2}}{(n-1) \times s^{2}}$$
+$$ G^{'''} = \frac{\left(n-3\right) \times s_{upper}^{2}}{\left(n-1\right) \times s^{2}}$$
 
 - $x_{1}, x_{2}, ..., x_{n}$ são os valores da amostra ordenados de forma crescente;
 - $n$ é o número total de observações;
@@ -8,7 +8,7 @@ $$ G^{'''} = \frac{(n-3) \times s_{upper}^{2}}{(n-1) \times s^{2}}$$
 - $s^{2}$ é a variância amostral;
 
 
-$$ G^{'''} = \frac{(n-3) \times s_{lower}^{2}}{(n-1) \times s^{2}}$$
+$$ G^{'''} = \frac{\left(n-3\right)\times s_{lower}^{2}}{\left(n-1 \right) \times s^{2}}$$
 
 - $x_{1}, x_{2}, ..., x_{n}$ são os valores da amostra ordenados de forma crescente;
 - $n$ é o número total de observações;
@@ -21,7 +21,7 @@ $$ G^{'''} = \frac{(n-3) \times s_{lower}^{2}}{(n-1) \times s^{2}}$$
 ```
 # Grubbs Three ( $G^{'''}$ )
 
-$$ G^{'''} = \frac{(n-3) \times s_{upper}^{2}}{(n-1) \times s^{2}}$$
+$$ G^{'''} = \frac{\left(n-3\right) \times s_{upper}^{2}}{\left(n-1\right) \times s^{2}}$$
 
 - $x_{1}, x_{2}, ..., x_{n}$ são os valores da amostra ordenados de forma crescente;
 - $n$ é o número total de observações;
@@ -29,7 +29,7 @@ $$ G^{'''} = \frac{(n-3) \times s_{upper}^{2}}{(n-1) \times s^{2}}$$
 - $s^{2}$ é a variância amostral;
 
 
-$$ G^{'''} = \frac{(n-3) \times s_{lower}^{2}}{(n-1) \times s^{2}}$$
+$$ G^{'''} = \frac{\left(n-3\right)\times s_{lower}^{2}}{\left(n-1 \right) \times s^{2}}$$
 
 - $x_{1}, x_{2}, ..., x_{n}$ são os valores da amostra ordenados de forma crescente;
 - $n$ é o número total de observações;
