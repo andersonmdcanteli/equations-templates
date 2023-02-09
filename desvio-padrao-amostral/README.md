@@ -1,6 +1,6 @@
 # Desvio padrão amostral ( $s$ )
 
-$$s = \sqrt{\frac{1}{(n-1)} \sum_{i=1}^{n} (x_{i} - \overline{x})^{2}} $$
+$$s = \sqrt{\frac{1}{\left(n-1\right)} \sum_{i=1}^{n}  \left(x_{i} - \overline{x}\right)^{2}}$$
 
 onde:
 - $n$ é o número de observações da amostra;
@@ -11,7 +11,7 @@ onde:
 ```
 # Desvio padrão amostral ( $s$ )
 
-$$s = \sqrt{\frac{1}{(n-1)} \sum_{i=1}^{n} (x_{i} - \overline{x})^{2}} $$
+$$s = \sqrt{\frac{1}{\left(n-1\right)} \sum_{i=1}^{n}  \left(x_{i} - \overline{x}\right)^{2}}$$
 
 onde:
 - $n$ é o número de observações da amostra;
