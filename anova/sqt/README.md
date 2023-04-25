@@ -4,7 +4,7 @@
 $$SQT = \sum_{i=1}^{n} \left(y_{i} - \overline{y} \right)^{2}$$
 
 onde:
-* $n$ é o número totao de observações;
+* $n$ é o número total de observações;
 * $y_{i}$ é a i-ésima observação obtida em $x_{i}$;
 * $\overline{y}$ é a média de todas as observações
 
@@ -15,7 +15,7 @@ onde:
 $$SQT = \sum_{i=1}^{n} \left(y_{i} - \overline{y} \right)^{2}$$
 
 onde:
-* $n$ é o número totao de observações;
+* $n$ é o número total de observações;
 * $y_{i}$ é a i-ésima observação obtida em $x_{i}$;
 * $\overline{y}$ é a média de todas as observações
 ```
