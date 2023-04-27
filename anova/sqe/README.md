@@ -8,7 +8,7 @@ onde:
 
 * $y_{i}$ é a i-ésima observação obtida em $x_{i}$;
 
-* $\widehat{y}_i$ é o valor predito pelo modelo para a i-ésima observação obtida em $x_{i}$
+* $\widehat{y}_{i}$ é o valor predito pelo modelo para a i-ésima observação obtida em $x_{i}$
 
 ## Código
 
@@ -23,7 +23,7 @@ onde:
 
 * $y_{i}$ é a i-ésima observação obtida em $x_{i}$;
 
-* $\widehat{y}_i$ é o valor predito pelo modelo para a i-ésima observação obtida em $x_{i}$
+* $\widehat{y}_{i}$ é o valor predito pelo modelo para a i-ésima observação obtida em $x_{i}$
 ```
 
 # Grau de liberdade dos quadrados dos erros ($gl_{erros}$)
