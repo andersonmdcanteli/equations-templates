@@ -5,7 +5,7 @@ $$SQE = \sum_{i=1}^{n} \left(\widehat{y}_{i} - y_{i} \right)^{2}$$
 onde:
 * $n$ é o número total de observações;
 * $y_{i}$ é a i-ésima observação obtida em $x_{i}$;
-* $\widehat{y}_{i}$ é o valor predito pelo modelo para a i-ésima observação obtida em $x_{i}$
+* $\widehat{y}_i$ é o valor predito pelo modelo para a i-ésima observação obtida em $x_{i}$
 
 ## Código
 
