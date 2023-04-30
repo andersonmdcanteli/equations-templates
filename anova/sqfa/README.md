@@ -3,7 +3,6 @@
 $$SQFA = \sum_{i=1}^{a} \sum_{j=1}^{n_{i}} \left( \widehat{y}_{ij} - \overline{y_{i}} \right)^{2}$$
 
 onde:
-* $n$ é o número total de observações;
 * $n_{i}$ é o número de observações do grupo $i$;
 * $a$ é o número de grupos;
 * $\widehat{y_{ij}}$ é o valor predito para a i-ésima observação obtida para $x_{i}$;
@@ -17,7 +16,6 @@ onde:
 $$SQFA = \sum_{i=1}^{a} \sum_{j=1}^{n_{i}} \left( \widehat{y}_{ij} - \overline{y_{i}} \right)^{2}$$
 
 onde:
-* $n$ é o número total de observações;
 * $n_{i}$ é o número de observações do grupo $i$;
 * $a$ é o número de grupos;
 * $\widehat{y_{ij}}$ é o valor predito para a i-ésima observação obtida para $x_{i}$;
@@ -26,10 +24,10 @@ onde:
 
 # Grau de liberdade dos quadrados da falta de ajuste ($gl_{falta \, ajuste}$)
 
-$$gl_{falta \, ajuste} = n - n_{param}$$
+$$gl_{falta \, ajuste} = a - n_{param}$$
 
 onde:
-* $n$ é o número total de observações;
+* $a$ é o número de grupos;
 * $n_{param}$ é o número de parâmetros do modelo;
 
 ## Código
@@ -37,10 +35,10 @@ onde:
 ```
 # Grau de liberdade dos quadrados da falta de ajuste ($gl_{falta \, ajuste}$)
 
-$$gl_{falta \, ajuste} = n - n_{param}$$
+$$gl_{falta \, ajuste} = a - n_{param}$$
 
 onde:
-* $n$ é o número total de observações;
+* $a$ é o número de grupos;
 * $n_{param}$ é o número de parâmetros do modelo;
 ```
 
@@ -66,10 +64,10 @@ onde:
 
 # Média da soma dos quadrados da falta de ajuste ($MSQFA$)
 
-$$MSQFA = \frac{\sum_{i=1}^{a} \sum_{j=1}^{n_{i}} \left( \widehat{y}_{ij} - \overline{y_{i}} \right)^{2}}{n - n_{param}}$$
+$$MSQFA = \frac{\sum_{i=1}^{a} \sum_{j=1}^{n_{i}} \left( \widehat{y}_{ij} - \overline{y_{i}} \right)^{2}}{a - n_{param}}$$
 
 onde:
-* $n$ é o número total de observações;
+* $a$ é o número de grupos;
 * $n_{i}$ é o número de observações do grupo $i$;
 * $a$ é o número de grupos;
 * $\widehat{y_{ij}}$ é o valor predito para a i-ésima observação obtida para $x_{i}$;
@@ -81,10 +79,10 @@ onde:
 ```
 # Média da soma dos quadrados da falta de ajuste ($MSQFA$)
 
-$$MSQFA = \frac{\sum_{i=1}^{a} \sum_{j=1}^{n_{i}} \left( \widehat{y}_{ij} - \overline{y_{i}} \right)^{2}}{n - n_{param}}$$
+$$MSQFA = \frac{\sum_{i=1}^{a} \sum_{j=1}^{n_{i}} \left( \widehat{y}_{ij} - \overline{y_{i}} \right)^{2}}{a - n_{param}}$$
 
 onde:
-* $n$ é o número total de observações;
+* $a$ é o número de grupos;
 * $n_{i}$ é o número de observações do grupo $i$;
 * $a$ é o número de grupos;
 * $\widehat{y_{ij}}$ é o valor predito para a i-ésima observação obtida para $x_{i}$;
