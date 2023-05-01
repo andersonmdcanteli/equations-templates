@@ -69,7 +69,6 @@ $$MSQFA = \frac{\sum_{i=1}^{a} \sum_{j=1}^{n_{i}} \left( \widehat{y}_{ij} - \ove
 onde:
 * $a$ é o número de grupos;
 * $n_{i}$ é o número de observações do grupo $i$;
-* $a$ é o número de grupos;
 * $\widehat{y_{ij}}$ é o valor predito para a i-ésima observação obtida para $x_{i}$;
 * $\overline{y_{i}}$ é a média do grupo $i$;
 * $n_{param}$ é o número de parâmetros do modelo;
@@ -84,7 +83,6 @@ $$MSQFA = \frac{\sum_{i=1}^{a} \sum_{j=1}^{n_{i}} \left( \widehat{y}_{ij} - \ove
 onde:
 * $a$ é o número de grupos;
 * $n_{i}$ é o número de observações do grupo $i$;
-* $a$ é o número de grupos;
 * $\widehat{y_{ij}}$ é o valor predito para a i-ésima observação obtida para $x_{i}$;
 * $\overline{y_{i}}$ é a média do grupo $i$;
 * $n_{param}$ é o número de parâmetros do modelo;
