@@ -6,9 +6,12 @@ As equações são, em geral, fórmulas de calculo de estatísticas para diverso
 
 Em alguns casos existem mais de uma equação para a mesma estatística, que difere apenas na forma de apresentar a equação.
 
-Todas as equações contém descrição dos símbolos contidos.
+Todas as equações contém descrição dos símbolos contidos (na medida do possível).
 
 Novas equações serão adicionadas na medida em que forem criadas em outros projetos.
 
 
 Caso queira auxiliar fornecendo novas Equações, entre em contato: andersonmdcanteli@gmail.com
+
+
+> As equações requerem uma revisão
