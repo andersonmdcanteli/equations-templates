@@ -64,7 +64,7 @@ onde:
 
 # Média dos quadrados dos erros ($MSQE$)
 
-$$MSQE=\frac{\sum_{i=1}^{n} \left(\widehat{y}_{i} - y_{i} \right)^{2}}{n-n_{p}}$$
+$$MSQE=\frac{\sum_{i=1}^{n} \left(y_{i} - \widehat{y}_{i} \right)^{2}}{n-n_{p}}$$
 
 onde:
 * $n$ é o número total de observações;
@@ -77,7 +77,7 @@ onde:
 ```
 # Média dos quadrados dos erros ($MSQE$)
 
-$$MSQE=\frac{\sum_{i=1}^{n} \left(\widehat{y}_{i} - y_{i} \right)^{2}}{n-n_{p}}$$
+$$MSQE=\frac{\sum_{i=1}^{n} \left(y_{i} - \widehat{y}_{i} \right)^{2}}{n-n_{p}}$$
 
 onde:
 * $n$ é o número total de observações;
