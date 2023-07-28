@@ -96,21 +96,21 @@ onde:
 
 ### Comparando o valor crítico ($t_{critico}$) com a estatística do teste ($t_{0}$)
 
-- Se $|t_{0}| > t_{critico}$, rejeitamos a hipótese nula ($\mu \neq \mu_{0}$);
-- Se $|t_{0}| \leq t_{critico}$, falhamos em rejeitar a hipótese nula ($\mu \geq \mu_{0}$)
+- Se $|t_{0}| > t_{critico}$, rejeitamos a hipótese nula ($\mu > \mu_{0}$);
+- Se $|t_{0}| \leq t_{critico}$, falhamos em rejeitar a hipótese nula ($\mu = \mu_{0}$)
 
 #### Código
 
 ```
 ### Comparando o valor crítico ($t_{critico}$) com a estatística do teste ($t_{0}$)
 
-- Se $|t_{0}| > t_{critico}$, rejeitamos a hipótese nula ($\mu \neq \mu_{0}$);
-- Se $|t_{0}| \leq t_{critico}$, falhamos em rejeitar a hipótese nula ($\mu \geq \mu_{0}$)
+- Se $|t_{0}| > t_{critico}$, rejeitamos a hipótese nula ($\mu > \mu_{0}$);
+- Se $|t_{0}| \leq t_{critico}$, falhamos em rejeitar a hipótese nula ($\mu = \mu_{0}$)
 ```
 
 ### Comparando a probabilidade ($p-valor$) com o nível de significância adotado ($\alpha$)
 
-- Se $p-valor < \alpha$, rejeitamos a hipótese nula ($\mu \neq\mu_{0}$);
+- Se $p-valor < \alpha$, rejeitamos a hipótese nula ($\mu > \mu_{0}$);
 - Se $p-valor \geq \alpha$, falhamos em rejeitar a hipótese nula ($\mu = \mu_{0}$)
 
 ### Código
@@ -118,7 +118,7 @@ onde:
 ```
 ### Comparando a probabilidade ($p-valor$) com o nível de significância adotado ($\alpha$)
 
-- Se $p-valor < \alpha$, rejeitamos a hipótese nula ($\mu \neq\mu_{0}$);
+- Se $p-valor < \alpha$, rejeitamos a hipótese nula ($\mu > \mu_{0}$);
 - Se $p-valor \geq \alpha$, falhamos em rejeitar a hipótese nula ($\mu = \mu_{0}$)
 ```
 
